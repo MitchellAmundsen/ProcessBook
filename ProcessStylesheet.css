@@ -1,0 +1,95 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+
+body{
+	background-color: #BDBDBD;
+}
+
+#navBar{
+	background-color: #181c22;
+	opacity: 0.9;
+	padding: .5em;
+	position: fixed;
+	display: inline;
+	width: 100%;
+	z-index: 1;
+	border-bottom: solid 1px white;
+}
+.navLink{
+	font-size: 20px;
+	color: white;
+	padding-left: 1em;
+	font-family: georgia;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+.navLink:hover{
+	color:#E6BF4D;
+	text-decoration: none;
+}
+.promptTitles{
+	text-align: center;
+	color: white;
+	font-variant: small-caps;
+	padding-left: 0;
+	padding-right: 0;
+	position: relative;
+	bottom: 20px;
+}
+.promptTitlesBlack{
+	text-align: center;
+	color: black;
+	font-variant: small-caps;
+	padding-left: 0;
+	padding-right: 0;
+	position: relative;
+	bottom: 20px;
+}
+#prompt1{
+	background-image: url("img/texture_soil_sand_dirt_dark_50620_1600x900.jpg");
+	padding-top: 3em;
+}
+.promptBanners{
+	padding-top: 2em;
+	padding-bottom:2em;
+	border: 3px solid black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.imagesP1{
+	max-height: 25em;
+	border-radius: 5px;
+}
+.picSet{
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 40px;
+	padding-bottom: 
+}
+.picWords{
+	float: right;
+	padding-top: 60px;
+}
+.spacing{
+	padding-top: 3em;
+}
+#prompt2{
+	background-image: url("img/7623_1_other_wallpapers_simple.jpg");
+}
+#prompt3{
+	background-image: url("img/387-bronze-1920x1200-minimalistic-wallpaper.jpg");
+	
+}
+#prompt4{
+	background-image: url("img/cool-silver-wallpapers-hd.jpg");
+}
+#prompt5{
+	background-image: url("img/Gold-Sparkly-High-Definition-Wallpaper.jpg");
+}
+#prompt6{
+	background-image: url("img/1341650493-41004500.jpg");
+}
+#prompt7{
+	background-image: url("img/tumblr_nn4i0uuuSz1tjpgy6o2_1280.jpg");
+
+
+}
