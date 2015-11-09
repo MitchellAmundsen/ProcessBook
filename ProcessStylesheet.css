@@ -46,7 +46,7 @@ body{
 }
 #prompt1{
 	background-image: url("img/texture_soil_sand_dirt_dark_50620_1600x900.jpg");
-	padding-top: 3em;
+	
 }
 .promptBanners{
 	padding-top: 2em;
@@ -96,8 +96,23 @@ body{
 	max-height: 11em;
 	border: solid black 2px;
 	border-radius: 5px;
+	margin-left: 1em;
 }
 .para4{
-	padding-right: 15px;
 	padding-left: 0px;
+}
+.imagesp5{
+	max-height: 35em;
+	border-radius: 5px;
+	border: solid black 2px;
+}
+#p5{
+	text-align: center;
+}
+.imgp3{
+	max-width: 30em;
+	border-radius: 5px;
+	border: solid black 2px;
+	text-align: center;
+	margin: 2em;
 }
