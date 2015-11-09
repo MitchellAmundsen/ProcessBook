@@ -90,6 +90,14 @@ body{
 }
 #prompt7{
 	background-image: url("img/tumblr_nn4i0uuuSz1tjpgy6o2_1280.jpg");
-
-
+}
+.img4{
+	float: right;
+	max-height: 11em;
+	border: solid black 2px;
+	border-radius: 5px;
+}
+.para4{
+	padding-right: 15px;
+	padding-left: 0px;
 }
