@@ -143,3 +143,12 @@ body{
 #firstPara{
 	margin-top: 2em;
 }
+.imagesp10{
+	max-height: 40em;
+	border-radius: 5px;
+	margin: 2em;
+	max-width: 70em;
+}
+.list10{
+	size: 16px;
+}
