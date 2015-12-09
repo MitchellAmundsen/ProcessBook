@@ -44,6 +44,15 @@ body{
 	position: relative;
 	bottom: 20px;
 }
+.promptTitlesWhite{
+	text-align: center;
+	color: white;
+	font-variant: small-caps;
+	padding-left: 0;
+	padding-right: 0;
+	position: relative;
+	bottom: 20px;
+}
 #prompt1{
 	background-image: url("img/texture_soil_sand_dirt_dark_50620_1600x900.jpg");
 	
@@ -71,6 +80,7 @@ body{
 }
 .spacing{
 	padding-top: 3em;
+	padding-bottom: 2em;
 }
 #prompt2{
 	background-image: url("img/7623_1_other_wallpapers_simple.jpg");
@@ -124,4 +134,12 @@ body{
 	border: solid black 2px;
 	text-align: center;
 	margin: 2em;
+}
+.imagesp9{
+	max-width: 30em;
+	margin: 2em;
+	border-radius: 5px;
+}
+#firstPara{
+	margin-top: 2em;
 }
