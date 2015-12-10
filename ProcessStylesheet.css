@@ -15,7 +15,7 @@ body{
 	border-bottom: solid 1px white;
 }
 .navLink{
-	font-size: 20px;
+	font-size: 17px;
 	color: white;
 	padding-left: 1em;
 	font-family: georgia;
@@ -151,4 +151,10 @@ body{
 }
 .list10{
 	size: 16px;
+}
+.imagesp7{
+	border-radius: 5px;
+	max-width: 20em;
+	max-height: 40em;
+	margin: 1em;
 }
